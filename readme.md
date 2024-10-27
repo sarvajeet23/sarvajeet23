@@ -1,13 +1,17 @@
 # 👋 Hi, I'm Sarvajeet Kumar (@Sarvajeet23)
 
 ### About Me
-- 🚀 **Flutter Developer with 3 Years of Experience**
+- 🚀 **Flutter Mobile App Developer with 3 Years of Experience**
+- 📦 **Package Developer:** I develop customizable, reusable Flutter widgets and packages to streamline app development and enhance user experience.
 - 💻 Skilled in Dart, Firebase, FCM, GitHub, GetX, and BLoC for state management.
-- 📚 **Projects:** I've built multiple applications using Flutter across various domains, tackling real-world problems with efficient, scalable solutions.
+- 📚 **Projects:** I’ve built multiple applications using Flutter across various domains, delivering efficient and scalable solutions.
 
 ### What I'm Up To
-- 🌱 Currently exploring advanced Flutter techniques and enhancing my state management skills.
+- 🌱 Currently exploring advanced Flutter techniques, state management, and custom widget development.
 - 💡 Looking to collaborate on **innovative Flutter projects** and contribute to open-source.
+
+### My Flutter Packages
+- 📦 You can check out my published packages on [pub.dev](https://pub.dev/my-packages).
 
 ### Fun Facts
 - 🎓 Originally trained as a Mechanical Engineer, I found my true calling in software development!
