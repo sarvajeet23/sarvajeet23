@@ -18,7 +18,8 @@
 - 😄 Pronouns: He/Him
 
 ### Get in Touch
-- 📫 [Email me](mailto:skshibooofficial@gmail.com) if you’d like to connect or collaborate!
+- 📫 **Email:** [skshibooofficial@gmail.com](mailto:skshibooofficial@gmail.com)
+- 📱 **Phone/WhatsApp:** +91 7903329530
 
 <!---
 Sarvajeet23/Sarvajeet23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
