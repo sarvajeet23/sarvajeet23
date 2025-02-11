@@ -3,7 +3,7 @@
 ### About Me
 - 🚀 **Flutter Mobile App Developer with 3 Years of Experience**
 - 📦 **Package Developer:** I develop customizable, reusable Flutter widgets and packages to streamline app development and enhance user experience.
-- 💻 Skilled in Dart, Firebase, FCM, GitHub, GetX, and BLoC for state management and CI/CD Pipelines using code Magic and GitHub Actions.
+- 💻 Skilled in Dart, Firebase, FCM, GitHub, GetX,RiverPort and BLoC for state management and CI/CD Pipelines using code Magic and GitHub Actions.
 - 📚 **Projects:** I’ve built multiple applications using Flutter across various domains, delivering efficient and scalable solutions.
 
 ### What I'm Up To
